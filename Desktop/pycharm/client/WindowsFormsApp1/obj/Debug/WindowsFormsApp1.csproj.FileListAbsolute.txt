@@ -1,0 +1,45 @@
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form13.resources
+D:\university\sophomore\计算机大赛裂缝组\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form13.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\university\sophomore\computer competition crack team\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
